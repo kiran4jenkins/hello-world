@@ -23,9 +23,9 @@
 
   <distributionManagement>
     <site>
-      <id>site-server</id>
-      <name>Test Project Site</name>
-      <url>file:///tmp/maven-project-site</url>
+      <id>deployer</id>
+      <name>Hello-World</name>
+      <url>http://52.23.201.182:8081/repository/mvn-repo/</url>
     </site>
   </distributionManagement>
 
