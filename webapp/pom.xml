@@ -40,5 +40,11 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
-
+<distributionManagement>
+    <site>
+      <id>deployer</id>
+      <name>Hello-World</name>
+      <url>http://52.23.201.182:8081/repository/mvn-repo/</url>
+    </site>
+  </distributionManagement>
 </project>
